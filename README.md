@@ -16,5 +16,6 @@ dotnet tool install -g wk.Snippet
 ## Usage
 
 ```fish
-wsn <space>
+wk-snippet --query <tab>
+wsnn <space>
 ```
